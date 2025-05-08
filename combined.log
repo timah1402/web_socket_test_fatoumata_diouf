@@ -1,0 +1,66 @@
+{"level":"info","message":"Server started on port 8088","timestamp":"2025-05-08T10:59:05.791Z"}
+{"clientId":"e66dbd29-8756-4df3-92b7-c800b3ac7f41","level":"info","message":"New client connected","timestamp":"2025-05-08T10:59:15.289Z"}
+{"clientId":"e66dbd29-8756-4df3-92b7-c800b3ac7f41","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T10:59:15.305Z"}
+{"clientId":"d1ab9991-0b9d-4885-a3f7-9afcb5feddaf","level":"info","message":"New client connected","timestamp":"2025-05-08T10:59:18.195Z"}
+{"clientId":"d1ab9991-0b9d-4885-a3f7-9afcb5feddaf","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T10:59:18.198Z"}
+{"clientId":"d1ab9991-0b9d-4885-a3f7-9afcb5feddaf","level":"info","message":"Message received from client hekko","timestamp":"2025-05-08T10:59:24.611Z"}
+{"clientId":"e66dbd29-8756-4df3-92b7-c800b3ac7f41","level":"info","message":"Broadcasted message to client hekko","timestamp":"2025-05-08T10:59:24.612Z"}
+{"clientId":"d1ab9991-0b9d-4885-a3f7-9afcb5feddaf","level":"info","message":"Broadcasted message to client hekko","timestamp":"2025-05-08T10:59:24.613Z"}
+{"clientId":"e66dbd29-8756-4df3-92b7-c800b3ac7f41","level":"info","message":"Message received from client hiii","timestamp":"2025-05-08T10:59:31.002Z"}
+{"clientId":"e66dbd29-8756-4df3-92b7-c800b3ac7f41","level":"info","message":"Broadcasted message to client hiii","timestamp":"2025-05-08T10:59:31.003Z"}
+{"clientId":"d1ab9991-0b9d-4885-a3f7-9afcb5feddaf","level":"info","message":"Broadcasted message to client hiii","timestamp":"2025-05-08T10:59:31.004Z"}
+{"clientId":"91921a75-bb86-4f9d-82bb-5a5957296ffb","level":"info","message":"New client connected","timestamp":"2025-05-08T10:59:57.343Z"}
+{"clientId":"91921a75-bb86-4f9d-82bb-5a5957296ffb","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T10:59:57.345Z"}
+{"clientId":"91921a75-bb86-4f9d-82bb-5a5957296ffb","level":"info","message":"Message received from client hiiii","timestamp":"2025-05-08T11:00:02.420Z"}
+{"clientId":"e66dbd29-8756-4df3-92b7-c800b3ac7f41","level":"info","message":"Broadcasted message to client hiiii","timestamp":"2025-05-08T11:00:02.421Z"}
+{"clientId":"d1ab9991-0b9d-4885-a3f7-9afcb5feddaf","level":"info","message":"Broadcasted message to client hiiii","timestamp":"2025-05-08T11:00:02.423Z"}
+{"clientId":"91921a75-bb86-4f9d-82bb-5a5957296ffb","level":"info","message":"Broadcasted message to client hiiii","timestamp":"2025-05-08T11:00:02.424Z"}
+{"clientId":"e66dbd29-8756-4df3-92b7-c800b3ac7f41","level":"info","message":"Message received from client naguen deff","timestamp":"2025-05-08T11:00:12.288Z"}
+{"clientId":"e66dbd29-8756-4df3-92b7-c800b3ac7f41","level":"info","message":"Broadcasted message to client naguen deff","timestamp":"2025-05-08T11:00:12.289Z"}
+{"clientId":"d1ab9991-0b9d-4885-a3f7-9afcb5feddaf","level":"info","message":"Broadcasted message to client naguen deff","timestamp":"2025-05-08T11:00:12.291Z"}
+{"clientId":"91921a75-bb86-4f9d-82bb-5a5957296ffb","level":"info","message":"Broadcasted message to client naguen deff","timestamp":"2025-05-08T11:00:12.291Z"}
+{"clientId":"91921a75-bb86-4f9d-82bb-5a5957296ffb","level":"info","message":"Client disconnected","timestamp":"2025-05-08T11:05:04.545Z"}
+{"clientId":"aa26203b-e501-4334-bf2c-9cc6fc8fa600","level":"info","message":"New client connected","timestamp":"2025-05-08T11:05:04.615Z"}
+{"clientId":"aa26203b-e501-4334-bf2c-9cc6fc8fa600","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T11:05:04.616Z"}
+{"clientId":"e66dbd29-8756-4df3-92b7-c800b3ac7f41","level":"info","message":"Client disconnected","timestamp":"2025-05-08T11:05:07.537Z"}
+{"clientId":"8d00dd70-26b4-43ac-a9e9-ab4f7e81b6eb","level":"info","message":"New client connected","timestamp":"2025-05-08T11:05:07.621Z"}
+{"clientId":"8d00dd70-26b4-43ac-a9e9-ab4f7e81b6eb","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T11:05:07.622Z"}
+{"clientId":"8d00dd70-26b4-43ac-a9e9-ab4f7e81b6eb","level":"info","message":"Client disconnected","timestamp":"2025-05-08T11:05:11.131Z"}
+{"clientId":"290ec444-208c-4ae1-a8be-ea0450fad118","level":"info","message":"New client connected","timestamp":"2025-05-08T11:05:11.165Z"}
+{"clientId":"290ec444-208c-4ae1-a8be-ea0450fad118","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T11:05:11.165Z"}
+{"clientId":"290ec444-208c-4ae1-a8be-ea0450fad118","level":"info","message":"Client disconnected","timestamp":"2025-05-08T11:05:11.755Z"}
+{"clientId":"1af1901c-3af0-47e1-b680-d8fe728c337b","level":"info","message":"New client connected","timestamp":"2025-05-08T11:05:11.793Z"}
+{"clientId":"1af1901c-3af0-47e1-b680-d8fe728c337b","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T11:05:11.794Z"}
+{"clientId":"1af1901c-3af0-47e1-b680-d8fe728c337b","level":"info","message":"Client disconnected","timestamp":"2025-05-08T11:05:12.127Z"}
+{"clientId":"ed06d694-849d-4cc0-b507-e156b1054d3c","level":"info","message":"New client connected","timestamp":"2025-05-08T11:05:12.159Z"}
+{"clientId":"ed06d694-849d-4cc0-b507-e156b1054d3c","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T11:05:12.160Z"}
+{"clientId":"ed06d694-849d-4cc0-b507-e156b1054d3c","level":"info","message":"Message received from client jooo","timestamp":"2025-05-08T11:05:15.783Z"}
+{"clientId":"d1ab9991-0b9d-4885-a3f7-9afcb5feddaf","level":"info","message":"Broadcasted message to client jooo","timestamp":"2025-05-08T11:05:15.785Z"}
+{"clientId":"aa26203b-e501-4334-bf2c-9cc6fc8fa600","level":"info","message":"Broadcasted message to client jooo","timestamp":"2025-05-08T11:05:15.786Z"}
+{"clientId":"ed06d694-849d-4cc0-b507-e156b1054d3c","level":"info","message":"Broadcasted message to client jooo","timestamp":"2025-05-08T11:05:15.786Z"}
+{"clientId":"aa26203b-e501-4334-bf2c-9cc6fc8fa600","level":"info","message":"Message received from client hhh","timestamp":"2025-05-08T11:05:26.696Z"}
+{"clientId":"d1ab9991-0b9d-4885-a3f7-9afcb5feddaf","level":"info","message":"Broadcasted message to client hhh","timestamp":"2025-05-08T11:05:26.697Z"}
+{"clientId":"aa26203b-e501-4334-bf2c-9cc6fc8fa600","level":"info","message":"Broadcasted message to client hhh","timestamp":"2025-05-08T11:05:26.698Z"}
+{"clientId":"ed06d694-849d-4cc0-b507-e156b1054d3c","level":"info","message":"Broadcasted message to client hhh","timestamp":"2025-05-08T11:05:26.699Z"}
+{"level":"info","message":"Server started on port 8088","timestamp":"2025-05-08T11:11:40.652Z"}
+{"clientId":"089a080e-8806-429f-929b-5d0695437d55","level":"info","message":"New client connected","timestamp":"2025-05-08T11:11:47.777Z","userId":"User8983"}
+{"clientId":"089a080e-8806-429f-929b-5d0695437d55","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T11:11:47.788Z","userId":"User8983"}
+{"clientId":"15d684b5-2bec-4d2d-9311-098bcac0bb98","level":"info","message":"New client connected","timestamp":"2025-05-08T11:11:50.906Z","userId":"User4556"}
+{"clientId":"15d684b5-2bec-4d2d-9311-098bcac0bb98","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T11:11:50.914Z","userId":"User4556"}
+{"clientId":"15d684b5-2bec-4d2d-9311-098bcac0bb98","level":"info","message":"Message received from client hello","timestamp":"2025-05-08T11:11:54.797Z","userId":"User4556"}
+{"clientId":"089a080e-8806-429f-929b-5d0695437d55","level":"info","message":"Broadcasted message to client hello","timestamp":"2025-05-08T11:11:54.798Z","userId":"User8983"}
+{"clientId":"15d684b5-2bec-4d2d-9311-098bcac0bb98","level":"info","message":"Broadcasted message to client hello","timestamp":"2025-05-08T11:11:54.798Z","userId":"User4556"}
+{"clientId":"089a080e-8806-429f-929b-5d0695437d55","level":"info","message":"Message received from client ddd","timestamp":"2025-05-08T11:12:03.108Z","userId":"User8983"}
+{"clientId":"089a080e-8806-429f-929b-5d0695437d55","level":"info","message":"Broadcasted message to client ddd","timestamp":"2025-05-08T11:12:03.109Z","userId":"User8983"}
+{"clientId":"15d684b5-2bec-4d2d-9311-098bcac0bb98","level":"info","message":"Broadcasted message to client ddd","timestamp":"2025-05-08T11:12:03.110Z","userId":"User4556"}
+{"level":"info","message":"Server started on port 8088","timestamp":"2025-05-08T11:14:14.857Z"}
+{"clientId":"391582f5-f565-4f5e-9b62-12795f37e822","level":"info","message":"New client connected","timestamp":"2025-05-08T11:14:17.763Z","userId":"User1464"}
+{"clientId":"391582f5-f565-4f5e-9b62-12795f37e822","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T11:14:17.765Z","userId":"User1464"}
+{"clientId":"6d67c5c8-9b25-4954-96fc-6e09cf3a12fe","level":"info","message":"New client connected","timestamp":"2025-05-08T11:14:21.764Z","userId":"User2283"}
+{"clientId":"6d67c5c8-9b25-4954-96fc-6e09cf3a12fe","level":"info","message":"Sent welcome message to client","timestamp":"2025-05-08T11:14:21.769Z","userId":"User2283"}
+{"clientId":"391582f5-f565-4f5e-9b62-12795f37e822","level":"info","message":"Message received from client hi","timestamp":"2025-05-08T11:14:27.996Z","userId":"User1464"}
+{"clientId":"391582f5-f565-4f5e-9b62-12795f37e822","level":"info","message":"Broadcasted message to client hi","timestamp":"2025-05-08T11:14:27.997Z","userId":"User1464"}
+{"clientId":"6d67c5c8-9b25-4954-96fc-6e09cf3a12fe","level":"info","message":"Broadcasted message to client hi","timestamp":"2025-05-08T11:14:27.998Z","userId":"User2283"}
+{"clientId":"6d67c5c8-9b25-4954-96fc-6e09cf3a12fe","level":"info","message":"Message received from client hj","timestamp":"2025-05-08T11:14:33.927Z","userId":"User2283"}
+{"clientId":"391582f5-f565-4f5e-9b62-12795f37e822","level":"info","message":"Broadcasted message to client hj","timestamp":"2025-05-08T11:14:33.929Z","userId":"User1464"}
+{"clientId":"6d67c5c8-9b25-4954-96fc-6e09cf3a12fe","level":"info","message":"Broadcasted message to client hj","timestamp":"2025-05-08T11:14:33.930Z","userId":"User2283"}
